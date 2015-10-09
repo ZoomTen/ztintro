@@ -1,0 +1,6 @@
+# compiled gameboy roms/gbs files
+*.gb
+*.gbs
+
+# programs
+*.exe
